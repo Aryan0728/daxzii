@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @daxzii
+- 👋 Hi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, html, python
+- 🌱 I’m currently learning c++, html, python, css
 - 💞️ I’m looking to collaborate on projects that will help me learn more
 - 📫 How to reach me email me at aryanrathod160@gmail.com
 
